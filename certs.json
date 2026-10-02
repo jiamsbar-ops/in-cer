@@ -1,12 +1,15 @@
 [
  {
-  "id": "GN-2026-0001",
-  "name": "Student Name",
+  "certificateNo": "GN-2026-0003",
+  "registrationNo": "22152153051",
+  "studentName": "Student Full Name",
+  "collegeName": "Government Engineering College Arwal",
   "program": "Web Development",
-  "from": "01 Oct 2026",
-  "to": "28 Oct 2026",
-  "grade": "Completed"
- }
+  "startDate": "01 Oct 2026",
+  "endDate": "28 Oct 2026",
+  "status": "Completed",
+  "issuedBy": "GuideNova"
+}
 ,
 
  {
