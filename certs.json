@@ -7,8 +7,8 @@
   "to": "28 Oct 2026",
   "grade": "Completed"
  }
+,
 
-[
   {
     "id": "GN-2026-0002",
     "name": "Student Full Name",
@@ -17,6 +17,6 @@
     "to": "28 Oct 2026",
     "grade": "Completed"
   }
-]
+
  
 ]
