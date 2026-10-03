@@ -1,8 +1,10 @@
 [
  {
   "certificateNo": "GN-2026-0001",
-  "studentName": "Student Full Name",
-  "program": "Web Development",
+    "registrationNo": "GNREG-2026-0002",
+    "studentName": " Name",
+    "collegeName": " Engineering College ",
+    "program": "Web Development",
   "startDate": "01 Oct 2026",
   "endDate": "28 Oct 2026",
   "status": "Completed",
