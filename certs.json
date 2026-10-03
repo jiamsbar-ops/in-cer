@@ -10,33 +10,8 @@
   "status": "Completed",
   "issuedBy": "GuideNova"
 }
-,
 
- {
-  "certificateNo": "GN-2026-0002",
-  "registrationNo": "GNREG-2026-0002",
-  "studentName": "Student Full Name",
-  "collegeName": "Government Engineering College Arwal",
-  "program": "Web Development",
-  "startDate": "01 Oct 2026",
-  "endDate": "28 Oct 2026",
-  "status": "Completed",
-  "issuedBy": "GuideNova",
-  "issuerType": "Udyam-registered enterprise"
-}
- ,
-
- {
-  "certificateNo": "GN-2026-0003",
-  "registrationNo": "22152153051",
-  "studentName": "Student Full Name",
-  "collegeName": "Government Engineering College Arwal",
-  "program": "Web Development",
-  "startDate": "01 Oct 2026",
-  "endDate": "28 Oct 2026",
-  "status": "Completed",
-  "issuedBy": "GuideNova"
-}
+ 
 
  
 ]
